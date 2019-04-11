@@ -10,8 +10,8 @@ def cocktail(arr):
             if(arr[i] < arr[j]):
                 arr[i], arr[j] = arr[j], arr[i]
         for k in range(n):
-            if(arr[i]> arr[k]):
-                arr[i], arr[k] + arr[k], arr[i]
+            if(arr[-i]> arr[-k]):
+                arr[-i], arr[-k] + arr[-k], arr[-i]
     print(arr)
     
 cocktail(numbers)
