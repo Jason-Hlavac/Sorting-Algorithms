@@ -1,0 +1,6 @@
+Worst complexity: n^2
+Average complexity: n*log(n)
+Best complexity: n*log(n)
+Method: Partitioning
+Stable: No
+Class: Comparison sort
