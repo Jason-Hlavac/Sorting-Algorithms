@@ -1,0 +1,6 @@
+Worst complexity: n*log(n)
+Average complexity: n*log(n)
+Best complexity: n*log(n)
+Space complexity: n
+Method: Merging
+Stable: Yes
