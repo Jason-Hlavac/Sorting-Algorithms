@@ -1,0 +1,7 @@
+Worst complexity: n^2
+Average complexity: n^2
+Best complexity: n^2
+Space complexity: 1
+Method: Selection
+Stable: No
+Class: Comparison sort
