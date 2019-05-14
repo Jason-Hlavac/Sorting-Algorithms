@@ -1,5 +1,5 @@
 import random
-numbers=[]
+numbers= []
 for i in range(random.randint(75,150)):
     numbers.append(random.randint(-10000,10000))
     
